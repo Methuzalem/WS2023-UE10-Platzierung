@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696939265 source:c:\fh technikum dev\prozd\ue10 - platzierung\main.c
+	<stdio.h>
+	<stdlib.h>
+
